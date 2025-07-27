@@ -1,49 +1,78 @@
+<h1 align="center">Hi 👋, I'm Heth Katelia</h1>
+
+🎓 B.Tech Graduate in Computer Engineering from **K.J. Somaiya Institute of Technology**  
+💻 Passionate Full Stack Developer (Java / MERN) | Data Analyst  
+🚀 Love building scalable apps, crafting interactive dashboards, and solving real-world problems using technology
+
+---
+
 ## 💫 About Me:
-🎓 I'm currently in my final year of B.Tech at **K.J. Somaiya Institute of Technology**.  
-💻 I'm passionate about roles in **Software Development**, **Data Science**, and **Data Analysis**.
+- 🌐 Proficient in **Core/Advanced Java**, **Spring Boot**, **Angular**, **Flask**, **Django**, and **MERN Stack**
+- 📊 Skilled in **Data Analysis** and **Visualization** using **Power BI**, **Excel**, **Python**, and **Tableau**
+- ⚡ Experienced with building REST APIs, data dashboards, and secure scalable backend systems
+- 💡 I believe in continuous learning and enjoy working on meaningful tech that impacts lives
+- 📍 Based in Mumbai, India
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/hethkatelia](https://www.linkedin.com/in/heth-katelia-742617281/))  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heth_43)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heth-katelia-742617281/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/heth_43)
 
 ---
 
 ## 💻 Tech Stack:
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white)
 
-### 🧠 ML/DL Tools:
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+### 👨‍💻 Languages & Frontend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+### 🧠 Data Science & ML
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-### 🔧 Tools:
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 GitHub Stats:
 ![Heth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hethatgithub&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hethatgithub&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hethatgithub&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hethatgithub&theme=radical)
+
+---
+
+## 🏆 Certifications:
+- 🛡️ Foundations in Cybersecurity – Google (Coursera)  
+- 🤖 Supervised Machine Learning – Stanford University (Coursera)  
+- 🕵️ Ethical Hacking Essentials – EC-Council  
+- 💼 Mphasis Java Full Stack Developer – Internal Certification  
+- 🔐 Deloitte Cybersecurity Job Simulation
+
+---
+
 
 ---
 
